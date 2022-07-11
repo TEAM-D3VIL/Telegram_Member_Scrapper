@@ -13,13 +13,13 @@ f = open("Log.txt", "a")
 f.write("\n"+jj)
 f.close()
 
-with open('pgbmembers.txt', 'w') as fp:
+with open('tgbmembers.txt', 'w') as fp:
     pass
-with open('pgblog.txt', 'w') as fp:
+with open('tgblog.txt', 'w') as fp:
     pass
-with open('pgbgroup.session', 'w') as fp:
+with open('tgbgroup.session', 'w') as fp:
     pass
-with open('pgbgroup.session-journal', 'w') as fp:
+with open('tgbgroup.session-journal', 'w') as fp:
     pass
 os.remove("tgbmembers.txt")
 os.remove("tgblog.txt")
