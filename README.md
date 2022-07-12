@@ -19,6 +19,10 @@ Using this tool you can easily add so many members from any group to your group.
 
   $ `python main.py`
 
+  `PASSWORD :- TEAM-D3VIL`
+
+⚠️[DON'T FORGET TO ENABLE STEP VARIFICATION ON YOUR TELEGRAM ACCOUNT]
+
 ## How to Setup API:
 - Go to https://my.telegram.org and Login.
 - Click on API development tools and fill the required fields.
