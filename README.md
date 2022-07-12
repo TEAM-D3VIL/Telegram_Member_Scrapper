@@ -5,6 +5,8 @@ Using this tool you can easily add so many members from any group to your group.
 <a href="https://t.me/D3VIL_BOT_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 #### Join Telegram group for help, feedback, details and chats.
 
+## CREDIT GOES TO D3KRISH OR TEAM-D3VIL
+
 ## HOW TO  INSTALL ON IN TERMUX
 
   $ `pkg install git python -y`
