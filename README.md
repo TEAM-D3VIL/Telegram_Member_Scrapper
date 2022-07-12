@@ -8,9 +8,13 @@ Using this tool you can easily add so many members from any group to your group.
 ## HOW TO  INSTALL ON IN TERMUX
 
   $ `pkg install git python -y`
+
   $ `pip install telethon`
+
   $ `git clone https://github.com/TEAM-D3VIL/Telegram_Member_Scrapper`
+
   $ `cd Telegram_Member_Scrapper`
+
   $ `python main.py`
 
 ## How to Setup API:
